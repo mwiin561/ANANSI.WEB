@@ -62,3 +62,4 @@ console.log("the value of name in the object is ", student.name)
 
 //template withdraws. add strings of text and variables (` text  `)
 //`this is a template string ${variable}`
+//popmomjmioooo
